@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/scrumApp-Demo/static/css/main.abad236e.chunk.css",
+    "main.js": "/scrumApp-Demo/static/js/main.b776ad4b.chunk.js",
+    "main.js.map": "/scrumApp-Demo/static/js/main.b776ad4b.chunk.js.map",
+    "runtime-main.js": "/scrumApp-Demo/static/js/runtime-main.76f7a83f.js",
+    "runtime-main.js.map": "/scrumApp-Demo/static/js/runtime-main.76f7a83f.js.map",
+    "static/css/2.6ca62e54.chunk.css": "/scrumApp-Demo/static/css/2.6ca62e54.chunk.css",
+    "static/js/2.ad49523a.chunk.js": "/scrumApp-Demo/static/js/2.ad49523a.chunk.js",
+    "static/js/2.ad49523a.chunk.js.map": "/scrumApp-Demo/static/js/2.ad49523a.chunk.js.map",
+    "static/js/3.7c810935.chunk.js": "/scrumApp-Demo/static/js/3.7c810935.chunk.js",
+    "static/js/3.7c810935.chunk.js.map": "/scrumApp-Demo/static/js/3.7c810935.chunk.js.map",
+    "index.html": "/scrumApp-Demo/index.html",
+    "static/css/2.6ca62e54.chunk.css.map": "/scrumApp-Demo/static/css/2.6ca62e54.chunk.css.map",
+    "static/css/main.abad236e.chunk.css.map": "/scrumApp-Demo/static/css/main.abad236e.chunk.css.map",
+    "static/js/2.ad49523a.chunk.js.LICENSE.txt": "/scrumApp-Demo/static/js/2.ad49523a.chunk.js.LICENSE.txt",
+    "static/media/Overviewscreen.css": "/scrumApp-Demo/static/media/FredokaOne-Regular.3888a8fd.ttf",
+    "static/media/profile.css": "/scrumApp-Demo/static/media/SourceSansPro-Bold.12e6acd2.ttf",
+    "static/media/generalbacklog.css": "/scrumApp-Demo/static/media/SourceSansPro-Regular.efa76f83.ttf",
+    "static/media/add.c7c0f003.png": "/scrumApp-Demo/static/media/add.c7c0f003.png",
+    "static/media/etairia.10206be0.png": "/scrumApp-Demo/static/media/etairia.10206be0.png",
+    "static/media/helpicon.ac6d2cd0.png": "/scrumApp-Demo/static/media/helpicon.ac6d2cd0.png",
+    "static/media/info.c9237163.png": "/scrumApp-Demo/static/media/info.c9237163.png",
+    "static/media/login.css": "/scrumApp-Demo/static/media/loginback.3267f82e.png",
+    "static/media/logo.63f48c58.png": "/scrumApp-Demo/static/media/logo.63f48c58.png",
+    "static/media/logo2.9eb8a598.png": "/scrumApp-Demo/static/media/logo2.9eb8a598.png",
+    "static/media/notes.8428d38b.png": "/scrumApp-Demo/static/media/notes.8428d38b.png",
+    "static/media/partners.d11d555d.png": "/scrumApp-Demo/static/media/partners.d11d555d.png",
+    "static/media/settingshover.dffccb84.png": "/scrumApp-Demo/static/media/settingshover.dffccb84.png",
+    "static/media/settingsout.3586f796.png": "/scrumApp-Demo/static/media/settingsout.3586f796.png",
+    "static/media/sun2.615ad74c.png": "/scrumApp-Demo/static/media/sun2.615ad74c.png",
+    "static/media/userphoto.cf857b07.png": "/scrumApp-Demo/static/media/userphoto.cf857b07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f7a83f.js",
+    "static/css/2.6ca62e54.chunk.css",
+    "static/js/2.ad49523a.chunk.js",
+    "static/css/main.abad236e.chunk.css",
+    "static/js/main.b776ad4b.chunk.js"
+  ]
+}
